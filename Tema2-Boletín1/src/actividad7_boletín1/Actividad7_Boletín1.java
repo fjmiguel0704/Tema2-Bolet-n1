@@ -25,6 +25,8 @@ public class Actividad7_Boletín1 {
 		else if(num<10) {
 			System.out.print("Tú número tiene 1 cifras");
 		}
+		
+		read.close();
 
 
 	}

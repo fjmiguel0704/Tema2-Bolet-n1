@@ -29,6 +29,8 @@ public class Actividad9_Boletín1 {
         } else if (jugador1==tijeras && jugador2==papel) {
             System.out.print("Tijeras gana a Papel. ¡Ganador Jugador 1!");
         }
+        
+        read.close();
 
 	}
 

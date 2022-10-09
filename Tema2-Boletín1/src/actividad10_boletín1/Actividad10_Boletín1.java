@@ -35,6 +35,8 @@ public class Actividad10_Boletín1 {
         else {
             System.out.print("La suma de " +numero2 +" + " +numero3 + " no es igual a " + numero1);
         }
+        
+        read.close();
 
 	}
 

@@ -37,8 +37,11 @@ public class Actividad5_Boletín1 {
 						else if(num3>num2&&num2>num1){
 								System.out.print(num3 + ", " +num2 +", "+ num1);
 							}
-						}
-					}
+		
+		read.close();
+		
+		}
+	}
 
 	
 	

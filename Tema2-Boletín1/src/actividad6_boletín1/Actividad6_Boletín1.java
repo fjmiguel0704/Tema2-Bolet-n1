@@ -33,6 +33,8 @@ public class Actividad6_Boletín1 {
 			System.out.println("Primera solución real: " + xPositive);
 			System.out.print("Segunda solución real: " + xNegative);
 		}
+		
+		read.close();
 			
 		
 		}
